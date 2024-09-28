@@ -30,7 +30,8 @@
   },
   "homepage": "https://github.com/nulhakimm/latihan-npm#readme",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "latihan-npm-library": "^1.0.0"
   },
   "devDependencies": {
     "moment": "^2.29.3"
